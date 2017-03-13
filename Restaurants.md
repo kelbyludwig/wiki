@@ -1,4 +1,5 @@
 # Restaurants to Visit
+@food @restaurants @things-to-do
 
 ## Bullfight
 
